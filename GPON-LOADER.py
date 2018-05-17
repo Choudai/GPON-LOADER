@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-#By: ChouDai;
+#By: Choudai;
 import sys, requests, time, ssl, threading
 
 
